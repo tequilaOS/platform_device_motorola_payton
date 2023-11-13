@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "platform_device_motorola_msm8998-common",
+    "target_path": "device/motorola/msm8998-common"
+  },
+  {
+    "repository": "platform_vendor_motorola_payton",
+    "target_path": "vendor/motorola/payton",
+    "remote": "tequila-gitlab"
+  }
+]
